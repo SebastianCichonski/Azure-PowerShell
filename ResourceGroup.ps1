@@ -1,0 +1,1 @@
+New-AzResourceGroup -Name Lab_RG1 -Location 'polandcentral'
